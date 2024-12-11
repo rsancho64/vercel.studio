@@ -42,9 +42,9 @@ Vercel is a platform that enables you to build, deploy, and manage modern web ap
 
 **Prerequisites**
 
-1. Node.js installed on your machine
-2. A Vercel account
-3. Familiarity with JavaScript and Next.js
+- [x] Node.js installed on your machine
+- [x] A Vercel account
+- [x] Familiarity with JavaScript and Next.js
 
 **Step 1: Create a New Next.js Project**
 
